@@ -21,7 +21,7 @@ function Home() {
         <Col xs={12} lg={4} className="hero-photo-col">
           <div className="profile-image-wrapper">
             <img
-              src="/naji-photo.jpg"
+              src="/naji-photo.png"
               alt="Naji Barakani"
               className="profile-image"
               onError={(e) => {
